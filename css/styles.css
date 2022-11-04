@@ -1,0 +1,103 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 9.375rem;
+    font-family: 'Bellefair', serif;
+    font-weight: 400;
+    margin: 24px auto;
+}
+
+h2 {
+    color: #FFFFFF;
+    font-size: 1.75rem;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400;
+}
+
+a {
+    font-size: 1rem;
+    font-family: 'Barlow Condensed', sans-serif;
+    display: inline-block;
+    color: #FFFFFF;
+    padding: 40px;
+    position: relative;
+    bottom: 80px;
+    left: 880px;
+    margin: 0; 
+    text-decoration: none;
+}
+
+h4 {
+    font-size: 1rem;
+    font-family: 'Barlow Condensed', sans-serif;
+    display: inline-block;
+    color: #FFFFFF;
+    padding: 40px;
+    position: relative;
+    bottom: 80px;
+    left: 880px;
+    margin: 0;
+}
+
+a:hover {
+    color: #D0D6F9;
+}
+
+p {
+    color: #D0D6F9;
+    font-size: 1.125rem;
+    font-family: 'Barlow', sans-serif;
+}
+
+.body-text {
+    padding: 10px;
+    position: relative;
+    width: 30%;
+    top: 100px;
+    left: 150px ;
+}
+
+.earth-image {
+    display: inline-block;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+.cta {
+    height: 200px;
+    background-color: #FFFFFF;
+    width: 200px;
+    border-radius: 100%;
+    position: absolute;
+    right: 150px;
+    bottom: 100px;
+}
+
+.navbar {
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(12.4px);
+    -webkit-backdrop-filter: blur(12.4px);
+    height: 60px;
+    width: 43%;
+    position: relative;
+    left: 850px;
+}
+
+.explore {
+    color: #0B0D17;
+    font-size: 2rem;
+    font-family: 'Bellefair', serif;    
+    position: relative;
+    text-align: center;
+    top: 60px;
+}
+
+span {
+    text-decoration: underline;
+}
